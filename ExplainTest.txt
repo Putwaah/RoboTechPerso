@@ -1,5 +1,3 @@
-{
- 
 A installer:
 python3 -m pip install (-r requirement.txt : dans le dossier)
 pip3 install pygame
