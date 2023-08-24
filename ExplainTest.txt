@@ -1,0 +1,12 @@
+{
+ 
+A installer:
+python3 -m pip install (-r requirement.txt : dans le dossier)
+pip3 install pygame
+
+Explication:
+    -set_mode = creer la fenetre avec resolution en parametre
+                flag possible (pygame.FLAG | pygame.OTHERFLAG) : FULLSCREEN; DOUBLEBUFF (pour animation); OPENGL(pour affichage rendu et utilise DOUBLEBUFF);RESIZABLE\n",
+                Pour resize ou ajouter flag a la surface rapelle de set_mode
+    -
+ 
